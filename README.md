@@ -22,4 +22,4 @@ Memory Card Game is a simple browser-based card matching game built with HTML, C
 
 ## Demo
 
-You can play the game [here]([link-to-game](https://memory-card-game-sepia-nine.vercel.app/)).
+You can play the game [here](https://memory-card-game-sepia-nine.vercel.app/).
